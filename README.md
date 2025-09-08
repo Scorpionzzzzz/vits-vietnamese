@@ -1,4 +1,3 @@
-os.makedirs(wavs_dir, exist_ok=True)
 
 # Vietnamese TTS Finetuning Pipeline
 
